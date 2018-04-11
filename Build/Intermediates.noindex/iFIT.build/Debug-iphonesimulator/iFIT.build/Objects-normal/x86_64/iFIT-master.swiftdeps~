@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "57161a294de9ac2321c2d227f8e63e01"
+build_time: [1521819547, 508879000]
+inputs:
+  "/Users/brycesulin/Desktop/Github Projects/Mobile Dev 2 Class Projects/iFIT/iFIT/VideoWorkoutViewController.swift": [1520894066, 0]
+  "/Users/brycesulin/Desktop/Github Projects/Mobile Dev 2 Class Projects/iFIT/iFIT/MapViewController.swift": [1521652032, 0]
+  "/Users/brycesulin/Desktop/Github Projects/Mobile Dev 2 Class Projects/iFIT/iFIT/Meal.swift": [1521819409, 0]
+  "/Users/brycesulin/Desktop/Github Projects/Mobile Dev 2 Class Projects/iFIT/iFIT/MealViewController.swift": [1521819274, 0]
+  "/Users/brycesulin/Desktop/Github Projects/Mobile Dev 2 Class Projects/iFIT/iFIT/MealTableViewCell.swift": [1521814060, 0]
+  "/Users/brycesulin/Desktop/Github Projects/Mobile Dev 2 Class Projects/iFIT/iFIT/AppDelegate.swift": [1521648523, 0]
+  "/Users/brycesulin/Desktop/Github Projects/Mobile Dev 2 Class Projects/iFIT/iFIT/RatingControl.swift": [1521753931, 0]
+  "/Users/brycesulin/Desktop/Github Projects/Mobile Dev 2 Class Projects/iFIT/iFIT/MealTableViewController.swift": [1521819544, 0]
+  "/Users/brycesulin/Desktop/Github Projects/Mobile Dev 2 Class Projects/iFIT/iFIT/HomeViewController.swift": [1520896289, 0]

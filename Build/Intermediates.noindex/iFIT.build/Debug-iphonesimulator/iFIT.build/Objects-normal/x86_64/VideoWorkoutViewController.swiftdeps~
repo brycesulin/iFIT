@@ -1,0 +1,407 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "VideoWorkoutViewController"
+provides-nominal:
+- "4iFIT26VideoWorkoutViewControllerC"
+provides-member:
+- ["4iFIT26VideoWorkoutViewControllerC", ""]
+provides-dynamic-lookup:
+- "cardioVid"
+- "crossFitVid"
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+- "weightTrainVid"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "StringLiteralType"
+- "UIViewController"
+- "UIWebView"
+- !private "URL"
+- !private "URLRequest"
+- "VideoWorkoutViewController"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["So15CALayerDelegateP", "allowsInlineMediaPlayback"]
+- !private ["So15CALayerDelegateP", "loadRequest"]
+- !private ["So15CALayerDelegateP", "mediaPlaybackRequiresUserAction"]
+- !private ["s7CVarArgP", "URL"]
+- !private ["s7CVarArgP", "URLRequest"]
+- !private ["s7CVarArgP", "allowsInlineMediaPlayback"]
+- !private ["s7CVarArgP", "cardioVid"]
+- !private ["s7CVarArgP", "crossFitVid"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "loadRequest"]
+- !private ["s7CVarArgP", "mediaPlaybackRequiresUserAction"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "weightTrainVid"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "URL"]
+- !private ["s28CustomDebugStringConvertibleP", "URLRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "allowsInlineMediaPlayback"]
+- !private ["s28CustomDebugStringConvertibleP", "cardioVid"]
+- !private ["s28CustomDebugStringConvertibleP", "crossFitVid"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "loadRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "mediaPlaybackRequiresUserAction"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "weightTrainVid"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "URL"]
+- !private ["s23CustomStringConvertibleP", "URLRequest"]
+- !private ["s23CustomStringConvertibleP", "allowsInlineMediaPlayback"]
+- !private ["s23CustomStringConvertibleP", "cardioVid"]
+- !private ["s23CustomStringConvertibleP", "crossFitVid"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "loadRequest"]
+- !private ["s23CustomStringConvertibleP", "mediaPlaybackRequiresUserAction"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "weightTrainVid"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "URL"]
+- !private ["s9EquatableP", "URLRequest"]
+- !private ["s9EquatableP", "allowsInlineMediaPlayback"]
+- !private ["s9EquatableP", "cardioVid"]
+- !private ["s9EquatableP", "crossFitVid"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "loadRequest"]
+- !private ["s9EquatableP", "mediaPlaybackRequiresUserAction"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s9EquatableP", "weightTrainVid"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "URL"]
+- !private ["s8HashableP", "URLRequest"]
+- !private ["s8HashableP", "allowsInlineMediaPlayback"]
+- !private ["s8HashableP", "cardioVid"]
+- !private ["s8HashableP", "crossFitVid"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "loadRequest"]
+- !private ["s8HashableP", "mediaPlaybackRequiresUserAction"]
+- !private ["s8HashableP", "viewDidLoad"]
+- !private ["s8HashableP", "weightTrainVid"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "URL"]
+- !private ["So8NSCodingP", "URLRequest"]
+- !private ["So8NSCodingP", "allowsInlineMediaPlayback"]
+- !private ["So8NSCodingP", "cardioVid"]
+- !private ["So8NSCodingP", "crossFitVid"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "loadRequest"]
+- !private ["So8NSCodingP", "mediaPlaybackRequiresUserAction"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "weightTrainVid"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "URL"]
+- !private ["So26NSExtensionRequestHandlingP", "URLRequest"]
+- !private ["So26NSExtensionRequestHandlingP", "cardioVid"]
+- !private ["So26NSExtensionRequestHandlingP", "crossFitVid"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "weightTrainVid"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "UIWebView"]
+- !private ["So8NSObjectC", "URL"]
+- !private ["So8NSObjectC", "URLRequest"]
+- !private ["So8NSObjectC", "allowsInlineMediaPlayback"]
+- ["So8NSObjectC", "cardioVid"]
+- ["So8NSObjectC", "crossFitVid"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "loadRequest"]
+- !private ["So8NSObjectC", "mediaPlaybackRequiresUserAction"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "weightTrainVid"]
+- !private ["So16NSObjectProtocolP", "URL"]
+- !private ["So16NSObjectProtocolP", "URLRequest"]
+- !private ["So16NSObjectProtocolP", "allowsInlineMediaPlayback"]
+- !private ["So16NSObjectProtocolP", "cardioVid"]
+- !private ["So16NSObjectProtocolP", "crossFitVid"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "loadRequest"]
+- !private ["So16NSObjectProtocolP", "mediaPlaybackRequiresUserAction"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "weightTrainVid"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "allowsInlineMediaPlayback"]
+- !private ["So29UIAccessibilityIdentificationP", "loadRequest"]
+- !private ["So29UIAccessibilityIdentificationP", "mediaPlaybackRequiresUserAction"]
+- !private ["So12UIAppearanceP", "allowsInlineMediaPlayback"]
+- !private ["So12UIAppearanceP", "loadRequest"]
+- !private ["So12UIAppearanceP", "mediaPlaybackRequiresUserAction"]
+- !private ["So21UIAppearanceContainerP", "URL"]
+- !private ["So21UIAppearanceContainerP", "URLRequest"]
+- !private ["So21UIAppearanceContainerP", "allowsInlineMediaPlayback"]
+- !private ["So21UIAppearanceContainerP", "cardioVid"]
+- !private ["So21UIAppearanceContainerP", "crossFitVid"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "loadRequest"]
+- !private ["So21UIAppearanceContainerP", "mediaPlaybackRequiresUserAction"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "weightTrainVid"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "URL"]
+- !private ["So18UIContentContainerP", "URLRequest"]
+- !private ["So18UIContentContainerP", "cardioVid"]
+- !private ["So18UIContentContainerP", "crossFitVid"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "weightTrainVid"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "allowsInlineMediaPlayback"]
+- !private ["So17UICoordinateSpaceP", "loadRequest"]
+- !private ["So17UICoordinateSpaceP", "mediaPlaybackRequiresUserAction"]
+- !private ["So13UIDynamicItemP", "allowsInlineMediaPlayback"]
+- !private ["So13UIDynamicItemP", "loadRequest"]
+- !private ["So13UIDynamicItemP", "mediaPlaybackRequiresUserAction"]
+- !private ["So18UIFocusEnvironmentP", "URL"]
+- !private ["So18UIFocusEnvironmentP", "URLRequest"]
+- !private ["So18UIFocusEnvironmentP", "allowsInlineMediaPlayback"]
+- !private ["So18UIFocusEnvironmentP", "cardioVid"]
+- !private ["So18UIFocusEnvironmentP", "crossFitVid"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "loadRequest"]
+- !private ["So18UIFocusEnvironmentP", "mediaPlaybackRequiresUserAction"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "weightTrainVid"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "allowsInlineMediaPlayback"]
+- !private ["So11UIFocusItemP", "loadRequest"]
+- !private ["So11UIFocusItemP", "mediaPlaybackRequiresUserAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "URL"]
+- !private ["So30UIPasteConfigurationSupportingP", "URLRequest"]
+- !private ["So30UIPasteConfigurationSupportingP", "allowsInlineMediaPlayback"]
+- !private ["So30UIPasteConfigurationSupportingP", "cardioVid"]
+- !private ["So30UIPasteConfigurationSupportingP", "crossFitVid"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "loadRequest"]
+- !private ["So30UIPasteConfigurationSupportingP", "mediaPlaybackRequiresUserAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "weightTrainVid"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "UIWebView"]
+- !private ["So11UIResponderC", "URL"]
+- !private ["So11UIResponderC", "URLRequest"]
+- !private ["So11UIResponderC", "allowsInlineMediaPlayback"]
+- ["So11UIResponderC", "cardioVid"]
+- ["So11UIResponderC", "crossFitVid"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "loadRequest"]
+- !private ["So11UIResponderC", "mediaPlaybackRequiresUserAction"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "weightTrainVid"]
+- !private ["So30UIResponderStandardEditActionsP", "URL"]
+- !private ["So30UIResponderStandardEditActionsP", "URLRequest"]
+- !private ["So30UIResponderStandardEditActionsP", "allowsInlineMediaPlayback"]
+- !private ["So30UIResponderStandardEditActionsP", "cardioVid"]
+- !private ["So30UIResponderStandardEditActionsP", "crossFitVid"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "loadRequest"]
+- !private ["So30UIResponderStandardEditActionsP", "mediaPlaybackRequiresUserAction"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "weightTrainVid"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So20UIScrollViewDelegateP", "allowsInlineMediaPlayback"]
+- !private ["So20UIScrollViewDelegateP", "loadRequest"]
+- !private ["So20UIScrollViewDelegateP", "mediaPlaybackRequiresUserAction"]
+- !private ["So16UIStateRestoringP", "URL"]
+- !private ["So16UIStateRestoringP", "URLRequest"]
+- !private ["So16UIStateRestoringP", "cardioVid"]
+- !private ["So16UIStateRestoringP", "crossFitVid"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "weightTrainVid"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "URL"]
+- !private ["So18UITraitEnvironmentP", "URLRequest"]
+- !private ["So18UITraitEnvironmentP", "allowsInlineMediaPlayback"]
+- !private ["So18UITraitEnvironmentP", "cardioVid"]
+- !private ["So18UITraitEnvironmentP", "crossFitVid"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "loadRequest"]
+- !private ["So18UITraitEnvironmentP", "mediaPlaybackRequiresUserAction"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "weightTrainVid"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "allowsInlineMediaPlayback"]
+- !private ["So6UIViewC", "loadRequest"]
+- !private ["So6UIViewC", "mediaPlaybackRequiresUserAction"]
+- ["So16UIViewControllerC", "UIWebView"]
+- !private ["So16UIViewControllerC", "URL"]
+- !private ["So16UIViewControllerC", "URLRequest"]
+- ["So16UIViewControllerC", "cardioVid"]
+- ["So16UIViewControllerC", "crossFitVid"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "weightTrainVid"]
+- ["So16UIViewControllerC", ""]
+- !private ["So9UIWebViewC", "allowsInlineMediaPlayback"]
+- !private ["So9UIWebViewC", "loadRequest"]
+- !private ["So9UIWebViewC", "mediaPlaybackRequiresUserAction"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["10Foundation10URLRequestV", "init"]
+- ["4iFIT26VideoWorkoutViewControllerC", "UIWebView"]
+- !private ["4iFIT26VideoWorkoutViewControllerC", "URL"]
+- !private ["4iFIT26VideoWorkoutViewControllerC", "URLRequest"]
+- ["4iFIT26VideoWorkoutViewControllerC", "cardioVid"]
+- ["4iFIT26VideoWorkoutViewControllerC", "crossFitVid"]
+- ["4iFIT26VideoWorkoutViewControllerC", "deinit"]
+- ["4iFIT26VideoWorkoutViewControllerC", "didReceiveMemoryWarning"]
+- ["4iFIT26VideoWorkoutViewControllerC", "init"]
+- ["4iFIT26VideoWorkoutViewControllerC", "viewDidLoad"]
+- ["4iFIT26VideoWorkoutViewControllerC", "weightTrainVid"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "allowsInlineMediaPlayback"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "loadRequest"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "mediaPlaybackRequiresUserAction"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URLRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allowsInlineMediaPlayback"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cardioVid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "crossFitVid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "loadRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mediaPlaybackRequiresUserAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "weightTrainVid"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "So9UIWebViewC"
+- !private "10Foundation3URLV"
+- !private "10Foundation10URLRequestV"
+- "4iFIT26VideoWorkoutViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "467fd76e84ec4a912698f4628b359d9e"
